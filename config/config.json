@@ -3,21 +3,21 @@
     "username": "tlee",
     "password": "QPEUNoddGYGzuzwEIo3uIvT0tegMJMsL",
     "database": "headsup_db",
-    "host": "dpg-cggt06u4daddcg5pnpjg-a.oregon-postgres.render.com",
+    "host": "dpg-cggt06u4daddcg5pnpjg-a",
     "dialect": "postgres"
   },
   "test": {
     "username": "tlee",
     "password": "QPEUNoddGYGzuzwEIo3uIvT0tegMJMsL",
     "database": "headsup_db",
-    "host": "dpg-cggt06u4daddcg5pnpjg-a.oregon-postgres.render.com",
+    "host": "dpg-cggt06u4daddcg5pnpjg-a",
     "dialect": "postgres"
   },
   "production": {
     "username": "tlee",
     "password": "QPEUNoddGYGzuzwEIo3uIvT0tegMJMsL",
     "database": "headsup_db",
-    "host": "dpg-cggt06u4daddcg5pnpjg-a.oregon-postgres.render.com",
+    "host": "dpg-cggt06u4daddcg5pnpjg-a",
     "dialect": "postgres"
   }
 }
